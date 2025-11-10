@@ -1,6 +1,6 @@
 # 🛡️ Security Engineering Portfolio
 
-Hands-on projects demonstrating **Microsoft Sentinel**, **detection engineering**, **incident response**, **threat hunting**, and **automation**. This is the hub that links all repos in my blue-team stack.
+My hands-on projects demonstrating **Microsoft Sentinel**, **detection engineering**, **incident response**, **threat hunting**, and **automation**. This is the hub that links all repos in my blue-team stack.
 
 ---
 
