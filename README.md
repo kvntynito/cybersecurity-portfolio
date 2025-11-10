@@ -28,12 +28,12 @@ Hands-on projects demonstrating **Microsoft Sentinel**, **detection engineering*
 
 > Replace each line with real links:
 >
-> - Repo 1: https://github.com/your-username/repo-1  
-> - Repo 2: https://github.com/your-username/repo-2  
-> - Repo 3: https://github.com/your-username/repo-3  
-> - Repo 4: https://github.com/your-username/repo-4  
-> - Repo 5: https://github.com/your-username/repo-5  
-> - Repo 6: https://github.com/your-username/repo-6
+> - Repo 1: https://github.com/kvntynito/1-secops-detentions-sentinel  
+> - Repo 2: https://github.com/kvntynito/2-vuln-mgmt-openvas-lab 
+> - Repo 3: https://github.com/kvntynito/3-endpoint-hardening-windows-linux  
+> - Repo 4: https://github.com/kvntynito/4-azure-security-mini-lab 
+> - Repo 5: https://github.com/kvntynito/5-grc-policies-and-risk  
+> - Repo 6: https://github.com/kvntynito/6-sec-automation-py-ps-bash
 
 ---
 
