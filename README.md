@@ -17,23 +17,36 @@ Hands-on projects demonstrating **Microsoft Sentinel**, **detection engineering*
 
 ## 📂 Project Index (6 Repos)
 
-| Repo | Focus | What to Look At |
-|---|---|---|
-| **Repo 1 – Detection Engineering** | Sentinel detections, templates, Sysmon signals | `detections/`, `incidents/`, `docs/templates/`, PowerShell EncodedCommand rule |
-| **Repo 2 – Incident Response** | IR runbooks, timelines, artifacts | Incident reports, evidence collection checklists, triage notes |
-| **Repo 3 – Threat Hunting** | Hypothesis-driven hunts | Hunting notebooks, KQL hunts, pivot patterns |
-| **Repo 4 – SOC Automation** | Scripts + SOAR | `scripts/` (PowerShell/Python), Logic Apps JSON, enrichment with VT/AbuseIPDB |
-| **Repo 5 – Lab & Architecture** | Infra-as-lab | `lab/` datasets, Sysmon configs, pfSense VLAN diagram |
-| **Repo 6 – Cloud/Sentinel** | Azure setup | Sentinel + Log Analytics setup notes, data connectors, workbooks |
+### ✅ **Repo 1 – Security Operations & Detection Engineering**
+**Focus:** SIEM, Detection Rules, Incident Response  
+This project showcases hands-on SecOps skills using Microsoft Sentinel. It includes detection rules, incident investigations, log samples, and automation scripts used to identify and respond to suspicious activity in a simulated enterprise environment.  
+🔗 Repo: https://github.com/kvntynito/1-secops-detentions-sentinel
 
-> Replace each line with real links:
->
-> - Repo 1: https://github.com/kvntynito/1-secops-detentions-sentinel  
-> - Repo 2: https://github.com/kvntynito/2-vuln-mgmt-openvas-lab 
-> - Repo 3: https://github.com/kvntynito/3-endpoint-hardening-windows-linux  
-> - Repo 4: https://github.com/kvntynito/4-azure-security-mini-lab 
-> - Repo 5: https://github.com/kvntynito/5-grc-policies-and-risk  
-> - Repo 6: https://github.com/kvntynito/6-sec-automation-py-ps-bash
+### ✅ **Repo 2 – Vulnerability Management**
+**Focus:** Nmap, OpenVAS/GVM, Risk Analysis  
+This project demonstrates hands-on vulnerability management using Nmap and OpenVAS/GVM. Includes scan outputs, analysis reports, risk matrices, and remediation planning based on real test environments.  
+🔗 Repo: https://github.com/kvntynito/2-vuln-mgmt-openvas-lab
+
+### ✅ **Repo 3 – Endpoint Hardening (Windows & Linux)**
+**Focus:** System Hardening, Baselines, Validation  
+This project shows practical endpoint hardening for both Windows and Linux systems. Includes baselines, configuration changes, validation steps, and evidence showing how systems were strengthened against common attack vectors.  
+🔗 Repo: https://github.com/kvntynito/3-endpoint-hardening-windows-linux
+
+### ✅ **Repo 4 – Cloud Security (Azure)**
+**Focus:** Azure IAM, Security Reviews, Sentinel  
+This project demonstrates hands-on cloud security inside Microsoft Azure. It includes Azure security reviews, Sentinel analyses, IAM evaluations, architecture mapping, and evidence from a real mini-lab built on Azure free-tier resources.  
+🔗 Repo: https://github.com/kvntynito/4-azure-security-mini-lab
+
+### ✅ **Repo 5 – Governance, Risk & Compliance (GRC)**
+**Focus:** NIST, ISO, PCI, Risk Management  
+This project demonstrates core GRC skills including security policies, risk matrices, governance documentation, and mapping to frameworks such as NIST CSF, NIST 800-53, ISO27001, and PCI-DSS.  
+🔗 Repo: https://github.com/kvntynito/5-grc-policies-and-risk
+
+### ✅ **Repo 6 – Cybersecurity Automation & Scripting**
+**Focus:** PowerShell, Python, Bash, Automation Tools  
+This project showcases cybersecurity automation across multiple scripting languages. It includes tools for log parsing, alert generation, evidence collection, and security task automation used in real SecOps, SOC, and IR workflows.  
+🔗 Repo: https://github.com/kvntynito/6-sec-automation-py-ps-bash
+
 
 ---
 
