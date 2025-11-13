@@ -98,7 +98,7 @@ This project showcases cybersecurity automation across multiple scripting langua
 
 ## 📬 Contact
 - GitHub: https://github.com/kvntynito 
-- LinkedIn/Portfolio/Email: _add your links here_
+- LinkedIn/Portfolio/Email: 
 
 ---
 
