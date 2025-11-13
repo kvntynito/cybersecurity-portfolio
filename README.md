@@ -70,11 +70,31 @@ This project showcases cybersecurity automation across multiple scripting langua
 ---
 
 ## ▶️ How to Explore
-1. Start with **Repo 1** (detections) → read the `README` and open `detections/`.
-2. Open **Repo 6** (Sentinel) → see how detections deploy and generate incidents.
-3. Check **Repo 2** (IR) → read a full investigation writeup with screenshots.
-4. Browse **Repo 4** (automation) → run a small enrichment script on sample IOCs.
-5. View **Repo 5** (lab) → see the architecture + IaC/config snapshots.
+To get the most out of this portfolio, follow the recommended path below:
+
+### **1. Start with Repo 1 — Security Operations & Detection Engineering**
+Explore how detection rules, KQL analytics, Sentinel incidents, and Sysmon logs work together.  
+🔗 https://github.com/kvntynito/1-secops-detentions-sentinel
+
+### **2. Review Repo 2 — Vulnerability Management**
+See how vulnerabilities are discovered, analyzed, scored, and mapped to remediation strategies using Nmap and OpenVAS/GVM.
+🔗 https://github.com/kvntynito/2-vuln-mgmt-openvas-lab
+
+### **3. Move to Repo 3 — Endpoint Hardening**
+Check out Windows and Linux hardening baselines, validation evidence, and configuration changes that strengthen endpoints against common attacks.
+🔗 https://github.com/kvntynito/3-endpoint-hardening-windows-linux
+
+### **4. Explore Repo 4 — Azure Cloud Security**
+Understand how Azure IAM, Sentinel, and cloud architecture reviews work in a real mini-lab environment built on the Azure free tier.
+🔗 https://github.com/kvntynito/4-azure-security-mini-lab
+
+### **5. Review Repo 5 — GRC Policies & Risk**
+See formal governance documents, risk matrices, policies, and framework mapping aligned with NIST, ISO, and PCI.
+🔗 https://github.com/kvntynito/5-grc-policies-and-risk
+
+### **6. Finish with Repo 6 — Cybersecurity Automation & Scripting**
+Explore Python, PowerShell, and Bash tools built to automate log analysis, evidence collection, and SecOps workflows.
+🔗 https://github.com/kvntynito/6-sec-automation-py-ps-bash
 
 ---
 
