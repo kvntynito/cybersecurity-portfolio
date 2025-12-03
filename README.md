@@ -1,3 +1,9 @@
+## Connect with Me
+
+- LinkedIn: [Kevin Nito](https://www.linkedin.com/in/kevin-nito)
+- GitHub: [github.com/kvntynito](https://github.com/kvntynito)
+- Email: 
+
 # 🛡️ Security Engineering Portfolio
 
 My hands-on projects demonstrating **Microsoft Sentinel**, **detection engineering**, **incident response**, **threat hunting**, and **automation**. This is the hub that links all repos in my blue-team stack.
