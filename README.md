@@ -2,7 +2,7 @@
 
 - LinkedIn: [Kevin Nito](https://www.linkedin.com/in/kevin-nito)
 - GitHub: [github.com/kvntynito](https://github.com/kvntynito)
-- Email: 
+- Email: 171984604+kvntynito@users.noreply.github.com
 
 # 🛡️ Security Engineering Portfolio
 
